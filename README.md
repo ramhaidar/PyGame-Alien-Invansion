@@ -66,7 +66,7 @@ The game consists of:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/PyGame-Alien-Invasion.git
+git clone https://github.com/filzarahma/PyGame-Alien-Invansion.git
 ```
 
 ### Step 2: Install Dependencies
